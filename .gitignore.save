@@ -1,0 +1,38 @@
+# macOSLast login: Wed Aug  5 06:22:31 on ttys002
+gorgeous_jane@MacBookAir ~ % cat -n .gitignore
+cat: .gitignore: No such file or directory
+gorgeous_jane@MacBookAir ~ % 
+
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+netan-env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Generated outputs (keep folder structure)
+results/**/*.tmp

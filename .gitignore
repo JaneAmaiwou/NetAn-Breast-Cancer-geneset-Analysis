@@ -1,0 +1,36 @@
+# Large reference databases
+data/STRINGdb/clean_string.csv
+data/STRINGdb/clean_string.tar.gz# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.env/
+netan-env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
