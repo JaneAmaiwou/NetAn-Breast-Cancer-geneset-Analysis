@@ -1,4 +1,4 @@
-# Large reference databases
+ # Large reference databases
 data/STRINGdb/clean_string.csv
 data/STRINGdb/clean_string.tar.gz# macOS
 .DS_Store
@@ -34,3 +34,5 @@ netan-env/
 .Rhistory
 .RData
 .Rproj.user/
+data/STRINGdb/clean_string.csv
+data/STRINGdb/clean_string.tar.gz
